@@ -1,5 +1,5 @@
-# PrimateAncestralAlleles
-A Prototype for Defining the Ancestral Alleles for Ones that Modify Human Phenotypes
+# ApeShape
+### A Project endeavors to find the ancestral states of genetics variants provided by database.
 
 ## Please cite our work -- here is the ICMJE Standard Citation:
 ### ...and a link to the DOI:
