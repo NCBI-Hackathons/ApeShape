@@ -10,7 +10,8 @@ A Prototype for Defining the Ancestral Alleles for Ones that Modify Human Phenot
 This pipeline finds ancestral states of each polymorphic site in clinVar.
 ## What's the problem?
 ## Why should we solve it?
-# What is <this software>?
+# Workflow
+<https://ibb.co/b1fwnR>?
 
 # How to use <this software>
 ## Installation options:
