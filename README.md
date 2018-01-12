@@ -1,9 +1,12 @@
 # ApeShape
-### A Project endeavors to find the ancestral states of genetics variants provided by database.
+### A Project that endeavors to find the ancestral states of genetics variants provided by database.
 
-## Please cite our work -- Citation coming soon
+#### We took ClinVar Variants and determined the ancestral alleles in primates!
 
 ![alt text](https://i.pinimg.com/736x/c7/9e/77/c79e77061058fe2f14bb22225be441a1.jpg)
+
+
+## Please cite our work -- Citation coming soon
 
 ### This pipeline finds ancestral states of each polymorphic site in clinVar (Test case).
 The project can be used to study the evolution of genome since it is able to find the ancestral states of a large number of genetic variants. 
