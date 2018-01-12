@@ -2,7 +2,7 @@
 ### A Project endeavors to find the ancestral states of genetics variants provided by database.
 
 ## Please cite our work -- here is the ICMJE Standard Citation:
-### ...and a link to the DOI:
+(Fill when we get a DOI)
 ## Awesome Logo
 ![alt text](https://i.pinimg.com/736x/c7/9e/77/c79e77061058fe2f14bb22225be441a1.jpg)
 ### You can make a free DOI with zenodo <link>
@@ -16,5 +16,16 @@ The results provided by this project will give researchers a large number of anc
 # Workflow
 ![alt text](https://github.com/NCBI-Hackathons/PrimateAncestralAlleles/blob/master/workflow.png?raw=true)
 # How to use <this software>
+  ## Data Preparation
+The data_preparation.R can gather chromosome numbers and SNP postions from NCBI .vcf file. The .bed file generated should be feeded to https://genome.ucsc.edu/cgi-bin/hgCustom. In the website, you should click "Add custom track". The page will be directed to a place where you can upload your file.
+After your file is uploaded, a page like this ![alt text]() should appear, and you can select it and choose view in tabe browser.
+Now you will enter this page ![alt text](). In 'Output format section choose 'sequence', and type in a file name in 'output file' section. Click 'get output' and a file will start to download. This is the sequence file prepared for BLAST.
+
+  
+  
+  
+  
+  
+  
 ![alt tag](https://socalhack2018.slack.com/messages/C8H3T34BG/details/)
   
