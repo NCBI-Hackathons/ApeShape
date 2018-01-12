@@ -16,6 +16,9 @@ The project can be used to study the evolution of genome since it is able to fin
 
 ### The results provided by this project will give researchers a large number of ancestral states data which helps them with their researches.
 
+# Installation
+ApeShape is not a software, the project is consisted of scripts, and the order of using them is in 'How to use' section.
+
 # Workflow
 ![alt text](https://github.com/NCBI-Hackathons/PrimateAncestralAlleles/blob/master/workflow.png?raw=true)
 
