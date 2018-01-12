@@ -40,5 +40,5 @@ In 'Output format section choose 'sequence', and type in a file name in 'output 
   Clustal was used to allign the sequences that were found during the blast search. This was done to allow for the creation of the phylogeny tree in the next step
   
   ## Phangorn
-  The R package Phangorn was used to determine the ancestral allele from the now alligned sequences. 
+  The R package Phangorn was used to determine the ancestral allele from the now alligned sequences 
 
