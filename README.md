@@ -32,8 +32,13 @@ Now you will enter this page
 
 
 In 'Output format section choose 'sequence', and type in a file name in 'output file' section. Click 'get output' and a file will start to download. This is the sequence file prepared for BLAST.
+  
   ## BLAST
-  need filling
+  A custom blast database was created using the reference genomes of Human, Gorilla, Chimpanzee, Orangutan, and Macaque monkey. Using blastn, we found sequences that were similar in all of the chosen organisms. For our analysis, we chose to only keep homologs, however a future analysis could involve the use of paralogs. 
+  
+  ## Clustal
+  Clustal was used to allign the sequences that were found during the blast search. This was done to allow for the creation of the phylogeny tree in the next step
+  
   ## Phangorn
-  need filling
+  The R package Phangorn was used to determine the ancestral allele from the now alligned sequences. 
 
