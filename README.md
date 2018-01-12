@@ -18,7 +18,7 @@ The results provided by this project will give researchers a large number of anc
 # How to use <this software>
   ## Data Preparation
 The data_preparation.R can gather chromosome numbers and SNP postions from NCBI .vcf file. The .bed file generated should be feeded to https://genome.ucsc.edu/cgi-bin/hgCustom. In the website, you should click "Add custom track". The page will be directed to a place where you can upload your file.
-After your file is uploaded, a page like this ![alt text]() should appear, and you can select it and choose view in tabe browser.
+After your file is uploaded, a page like this ![alt text](https://github.com/NCBI-Hackathons/PrimateAncestralAlleles/blob/master/Customtrack.png?raw=true) should appear, and you can select it and choose view in tabe browser.
 Now you will enter this page ![alt text](). In 'Output format section choose 'sequence', and type in a file name in 'output file' section. Click 'get output' and a file will start to download. This is the sequence file prepared for BLAST.
 
   
