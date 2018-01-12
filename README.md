@@ -12,7 +12,7 @@ This pipeline finds ancestral states of each polymorphic site in clinVar.
 ## What's the problem?
 ## Why should we solve it?
 # Workflow
-![alt text](https://ibb.co/b1fwnR)
+![alt text](https://files.slack.com/files-pri/T8EBKCE6Q-F8SMJHEG7/workflow.png)
 
 # How to use <this software>
 ![alt tag](https://socalhack2018.slack.com/messages/C8H3T34BG/details/)
