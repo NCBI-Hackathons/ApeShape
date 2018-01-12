@@ -32,12 +32,8 @@ Now you will enter this page
 
 
 In 'Output format section choose 'sequence', and type in a file name in 'output file' section. Click 'get output' and a file will start to download. This is the sequence file prepared for BLAST.
+  ## BLAST
+  need filling
+  ## Phangorn
+  need filling
 
-  
-  
-  
-  
-  
-  
-![alt tag](https://socalhack2018.slack.com/messages/C8H3T34BG/details/)
-  
