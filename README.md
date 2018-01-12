@@ -6,11 +6,13 @@
 ## Awesome Logo
 ![alt text](https://i.pinimg.com/736x/c7/9e/77/c79e77061058fe2f14bb22225be441a1.jpg)
 ### You can make a free DOI with zenodo <link>
-## Website (if applicable)
 ## Intro statement
-This pipeline finds ancestral states of each polymorphic site in clinVar.
+This pipeline finds ancestral states of each polymorphic site in clinVar (Test case).
+The project can be used to study the evolution of genome since it is able to find the ancestral states of a large number of genetic variants. 
 ## What's the problem?
+Finding the ancestral states of a large number of genetic variants (provided by database or user).
 ## Why should we solve it?
+The results provided by this project will give researchers a large number of ancestral states data which helps them with their researches.
 # Workflow
 ![alt text](https://github.com/NCBI-Hackathons/PrimateAncestralAlleles/blob/master/workflow.png?raw=true)
 # How to use <this software>
