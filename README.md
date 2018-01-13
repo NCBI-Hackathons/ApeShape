@@ -46,4 +46,6 @@ In 'Output format section choose 'sequence', and type in a file name in 'output 
   
   ## Phangorn
   The R package Phangorn was used to determine the ancestral allele from the now alligned sequences 
-
+  ## Sample Result
+  Here is a sample result of the workflow.
+ ![alt text](https://github.com/NCBI-Hackathons/ApeShape/blob/master/Output.png?raw=true)
