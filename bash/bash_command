@@ -1,0 +1,12 @@
++##Used to make blast database. Can be modified to make other databases
+ +
+ +makeblastdb -in primates.fna -dbtype nucl -parse_seqids
+ +
+ +##Used to do blast search to get sequences in other organisms. can be modified to use other database
+ +
+ +for file in *.fa; do blastn -db ~/data/all_primates.fna -query $file -outfmt "6 scomname sseq" -out $file.txt ; echo $file.txt; done
+ +
+ +## Used to get minor ancestral frequencies of the variants given
+ +
+ +for i in `cat RS_Cleaner.txt`; do echo -n " " $i " " >> MAF.txt; esearch -db snp -query $i | esummary | xtract -pattern DocumentSummary -element GLOBAL_MAF | sort -u | awk -F"/" '{print $1}' >> MAF.txt ; done
+ +

@@ -1,0 +1,686 @@
+[[1]]
+[1] "GS_GS_76_101043.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_101045.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_101157.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_102425.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_102560.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_134846.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_137107.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_137971.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_138708.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_138712.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_140473.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_140475.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_140477.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_141258.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_142186.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_142191.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_143179.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_15694.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_15901.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_15902.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_15903.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_16327.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_16548.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_16550.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_166140.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_166193.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_16639.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_166561.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_166609.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_167563.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_167927.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_170214.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_171302.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_171304.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_172117.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_172170.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_172335.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_172337.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_172351.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_172477.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_172481.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_172483.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_172487.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_172591.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_172594.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_177483.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_177610.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_177887.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_177935.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_181506.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_18393.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_18557.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_18560.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_185758.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_185769.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_185772.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_185785.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_185789.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_185790.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_185791.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_185796.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_185797.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_187104.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_188155.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_188310.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_188314.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_188320.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_18907.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_18909.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_189186.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_190033.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_190052.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_190480.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_191746.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_19347.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_195676.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_196414.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_196458.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_196474.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_196479.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_196481.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_196488.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_19693.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_201027.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_201044.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_201104.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_20268.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_20272.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_20273.txt"                   
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_204037.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_204038.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_204439.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_204441.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "G"
+
+[[1]]
+[1] "GS_GS_76_205720.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_206689.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "T"
+
+[[1]]
+[1] "GS_GS_76_206702.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
+[[1]]
+[1] "GS_GS_76_210608.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "C"
+
+[[1]]
+[1] "GS_GS_76_210615.txt"                  
+[2] "/Users/Fabunanr/anc_alleles/phylo.nex"
+
+[[2]]
+[1] "A"
+
